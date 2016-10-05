@@ -1,0 +1,3 @@
+/fabcollection/app/design/frontend/rwd/fabcollection/template/catalog/layer - product page toggle filter.
+
+/fabcollection/app/design/frontend/rwd/fabcollection/template/page/html - footer
